@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: rgb(0, 0, 0);
+    color: #ffe600;
+}
+
+h2 {
+    color: #ffe600;
+}
+
+#bg{
+    background-color: #1b1b1c;
+}
+h4{
+    text-align: flex-start;
+}
